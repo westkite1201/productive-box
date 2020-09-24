@@ -44,6 +44,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
    - **TIMEZONE:** The timezone of your location, eg. `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc.
 
 1. Go to the repo **Settings > Secrets**
+
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    
